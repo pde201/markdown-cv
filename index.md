@@ -57,8 +57,8 @@ title: Prashant Deshpande's CV
 
 ## Work Experience
 
-### General Motors | 8 Years
-#### Principal Engineer | Senior Manager | Platform Director - (08/2019 - Present)
+## General Motors | 8 Years
+## Principal Engineer | Senior Manager | Platform Director - (08/2019 - Present)
 
 - ***Cloud-Native Transformation & Platform Leadership***
 	- Led development of GM's cloud-native Online Service Scheduling Platform, directing a 35-person team.
@@ -70,7 +70,7 @@ title: Prashant Deshpande's CV
 - ***Cloud Migration & Agile Transformation***
 	- Orchestrated pivotal migration from PCF to Azure, ensuring greater system flexibility, scalability, and availability.
 
-#### Senior Manager- Data Engineering (02/2017 - 07/2019)
+## Senior Manager- Data Engineering (02/2017 - 07/2019)
 
 - ***Innovation in AI/ML & Data Engineering***
 
@@ -85,7 +85,7 @@ title: Prashant Deshpande's CV
 	- Conceived and implemented the PASE and IAMSALE incentive program, resulting in a 10% market penetration surge for GM Genuine and ACDelco Branded parts.
 	- Seamlessly integrated platforms using Domain-Driven Design (DDD), Event Sourcing, CQRS, Java Springboot, Angular, and PCF.
 
-### Engineering Manager- Regulatory Compliance  (07/2015 - 01/2017)
+## Engineering Manager- Regulatory Compliance  (07/2015 - 01/2017)
 
 - ***Regulatory Compliance & Technological Innovation***
 
@@ -94,7 +94,7 @@ title: Prashant Deshpande's CV
 	- Implemented intelligent monitoring and validation to prevent costly part recalls.
 	- Ensured meticulous adherence to SoC and UL standards, demonstrating a comprehensive understanding
 
-### Principal Lead - Toyota Account (09/2011 - 06/2015)
+## Principal Lead - Toyota Account (09/2011 - 06/2015)
 
 - ***Middleware Setup & Financial Software Development***
 
@@ -102,7 +102,7 @@ title: Prashant Deshpande's CV
 	- Leveraged extensive financial sector experience to deliver and streamline software development projects for financial institutions such as Toyota Finance Bank and Toyota Financial.
 	- Played a key role in implementing the Incentive Management System for Toyota Financial Services, aligning financial incentives with business objectives.
 
-### Senior Engineer - Chrysler, Chrysler Financial, and TD Finance) (08/2007 - 08/2011)
+## Senior Engineer - Chrysler, Chrysler Financial, and TD Finance) (08/2007 - 08/2011)
 
 - ***Process Transformation & Vehicle Loan Origination***
 
@@ -110,7 +110,7 @@ title: Prashant Deshpande's CV
 	- Pioneered the CF Connect initiative, transforming vehicle loan origination and Point-of-Sale processes for over 3500 Chrysler dealers, promoting strategic partnerships with Chrysler Financial and TD Finance.
 	- Played an instrumental role in aiding Chrysler Financial's successful emergence from bankruptcy by strategically transforming vehicle loan origination and Point-of-Sale processes, managing the complex shutdown of the lease loan origination business.
 
-### Software Engineer - Chrysler, DCFS (04/2000 - 07/2007)
+## Software Engineer - Chrysler, DCFS (04/2000 - 07/2007)
 
 - ***Digital Transformation & Contracting Innovation***
 
